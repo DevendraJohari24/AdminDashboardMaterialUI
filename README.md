@@ -1,0 +1,2 @@
+#Packages Install
+npm install @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/react @fullcalendar/core @fullcalendar/daygrid @nivo/core @nivo/pie @nivo/bar @nivo/geo
